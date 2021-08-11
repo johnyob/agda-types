@@ -1,0 +1,5 @@
+name: agda-types-0.1
+include: src
+depend:
+    standard-library
+    
